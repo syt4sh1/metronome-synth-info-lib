@@ -1,0 +1,22 @@
+{
+  "name": "metronome-synth-info-lib",
+  "version": "2.0.0",
+  "description": "A JavaScript library that provides functionality for handling a metronome, synthesizing sounds, and retrieving information about the metronome and synth.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syt4sh1/metronome-synth-info-lib.git"
+  },
+  "keywords": [
+    "web3"
+  ],
+  "author": "syt4sh1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syt4sh1/metronome-synth-info-lib/issues"
+  },
+  "homepage": "https://github.com/syt4sh1/metronome-synth-info-lib#readme"
+}
